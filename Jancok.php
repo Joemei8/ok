@@ -9,9 +9,9 @@ $limitscan =3500;
 echo @color('nevy',"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 $timestamp = date("d-m-Y | H:i:s");
 echo $timestamp;
-echo "\SUPPORT BY JANCOK";
+echo "\SUPPORT BY KARYAWAN TUHAN";
 echo @color('nevy',"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-echo "JANGAN LUPA MALING,";
+echo "JANGAN LUPA BERDOA DAN BERSEDEKAH KE PUREL SETEMPAT:;
 echo @color('nevy',"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 echo "\n";
 
